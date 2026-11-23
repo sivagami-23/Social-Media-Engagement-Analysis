@@ -37,3 +37,7 @@ This project analyzes social media engagement data across multiple platforms usi
 Sivagami
 
 Aspiring Data Analyst | AI & Data Science Student
+
+## Power BI Dashboard
+
+[View / Download Power BI Dashboard](https://1drv.ms/u/c/10F9DA04789DFE02/IQA2ZiAJVmn0SaiZgBOofXCYAStDVLtypE1SBNc_HC23PIw?e=ZlBL5s)
